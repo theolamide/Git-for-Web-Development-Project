@@ -1,3 +1,7 @@
 My name is Daniel Ajadi
 I am a lambda Cohort of WEB24
 I am very excited to be on this journey
+update: I forgot to switch to my own branch, so I am doing that now
+
+
+This is a further update just to go through the process again. I keep making mistakes.
